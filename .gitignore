@@ -1,0 +1,13 @@
+# Visual Studio / .NET Framework
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.userprefs
+*.cache
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
