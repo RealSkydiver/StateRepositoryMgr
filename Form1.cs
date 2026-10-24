@@ -1367,11 +1367,6 @@ namespace StateRepositoryMgr
         {
         }
 
-        // Compatibility with the existing event name assigned by WinForms Designer.
-        private void btnReplace_Click_1(object sender, EventArgs e)
-        {
-            btnReplace_Click(sender, e);
-        }
 
         private void btnRestore_Click(object sender, EventArgs e)
         {
